@@ -1,8 +1,6 @@
-# React GraphQL Full Stack
+# Express, MongoDB, React, GraphQL
 
-> React with Hooks, Apollo Client GraphQL, Express & MongoDB Full Stack hosted on
-
-> [react-graphql-keemor.herokuapp.com](https://react-graphql-keemor.herokuapp.com/)
+Full stack with react and GraphQl
 
 ## Based on
 
@@ -12,32 +10,11 @@
 
 [Formik by Jared Palmer](https://jaredpalmer.com/formik/docs/overview)
 
-## Change log
-
-### 2019
-
--   30.04 - Sever/Client: delete bookings along with event
--   24.04 - Server: dataloader added to eliminate database roundtrips
--   23.04 - Client: My bookings page
--   19.04 - Client: Delete event mutation
--   18.04 - Client: Introducing react-apollo-hooks
--   17.04 - Client: Introducing hooks
-
-*   07.03 - End to End Tests added with faker, jest, jest-cli & puppeteer
-*   06.03 - Protected routes for adding event
-*   05.03 - User signup, login, logout using bcrypt & jsonwebtoken
-
-### 2018
-
--   19.12 - Client: Yup validation, bootstrap, reactstrap & reactstrap-formik
--   18.12 - Client: React, apollo-boost, react-apollo, Formik
--   17.12 - Server: Express, Graphql, mongoose
-
 ## Run locally
 
 ```sh
-git clone https://github.com/keemor/react-graphql-full-stack
-cd react-graphql-full-stack
+git clone https://github.com/stack-guru/fullstack-graphql
+cd fullstack-graphql
 npm install
 ```
 
